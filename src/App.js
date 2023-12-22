@@ -45,6 +45,6 @@ function App() {
       {displayResult()}
     </div>
   );
-}
+} 
 
 export default App;
